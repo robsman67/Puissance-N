@@ -10,7 +10,7 @@
 #include <time.h>
 #include "IA.h"
 #include "Demarrage_partie.h"
-#include "Sauvegarde&chargement.h"
+#include "SauvegardeEtchargement.h"
 #include "Demarrage_partie.h"
 
 int add_token(Grid grille, int c, char jetons, bool test_ordi){
